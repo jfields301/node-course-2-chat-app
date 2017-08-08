@@ -26,7 +26,6 @@ app.use((req, res, next) => {
 //     pageTitle: 'Maintenance Page'
 //   });
 // });
-//Test
 
 app.use(express.static(__dirname + '/public'));
 
