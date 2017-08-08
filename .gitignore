@@ -1,3 +1,7 @@
 node_modules/
+<<<<<<< HEAD
 server.log
 npm-debug.log.*
+=======
+npm-debug.log
+>>>>>>> 63c919c495a01e1ffa5ad67538b561cb8e72f4fe
